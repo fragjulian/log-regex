@@ -1,0 +1,27 @@
+2022/03/02 08:28:02 [notice] 6888#0: using the "epoll" event method
+2022/03/02 08:28:02 [notice] 6888#0: start worker processes
+2022/03/02 08:28:02 [notice] 6888#0: start worker process 7234
+2022/03/02 08:28:02 [notice] 6888#0: start worker process 7235
+2022/03/02 08:28:02 [notice] 6888#0: start worker process 7236
+2022/03/02 08:28:02 [notice] 6888#0: start worker process 7237
+2022/03/02 08:28:02 [notice] 6888#0: start worker process 7238
+2022/03/02 08:28:02 [notice] 6888#0: start worker process 7239
+2022/03/02 08:28:02 [notice] 6888#0: start worker process 7240
+2022/03/02 08:28:02 [notice] 6888#0: start worker process 7241
+2022/03/02 08:28:02 [notice] 6888#0: signal 17 (SIGCHLD) received from 6943
+2022/03/02 08:28:02 [notice] 6888#0: worker process 6942 exited with code 0
+2022/03/02 08:28:02 [notice] 6888#0: worker process 6943 exited with code 0
+2022/03/02 08:28:02 [notice] 6888#0: worker process 6944 exited with code 0
+2022/03/02 08:28:02 [notice] 6888#0: worker process 6945 exited with code 0
+2022/03/02 08:28:02 [notice] 6888#0: signal 29 (SIGIO) received
+2022/03/02 08:28:02 [notice] 6888#0: signal 17 (SIGCHLD) received from 6942
+2022/03/02 08:28:02 [notice] 6888#0: signal 17 (SIGCHLD) received from 6946
+2022/03/02 08:28:02 [notice] 6888#0: worker process 6940 exited with code 0
+2022/03/02 08:28:02 [notice] 6888#0: worker process 6946 exited with code 0
+2022/03/02 08:28:02 [notice] 6888#0: signal 29 (SIGIO) received
+2022/03/02 08:28:02 [notice] 6888#0: signal 17 (SIGCHLD) received from 6939
+2022/03/02 08:28:02 [notice] 6888#0: worker process 6939 exited with code 0
+2022/03/02 08:28:02 [notice] 6888#0: signal 29 (SIGIO) received
+2022/03/02 08:28:02 [notice] 6888#0: signal 17 (SIGCHLD) received from 6941
+2022/03/02 08:28:02 [notice] 6888#0: worker process 6941 exited with code 0
+2022/03/02 08:28:02 [notice] 6888#0: signal 29 (SIGIO) received

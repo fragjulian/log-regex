@@ -1,0 +1,9 @@
+^(?<version>[\d-]+)\s+(?<account_id>[^\s]+)\s+(?<interface_id>[^\s]+)\s+(?<srcaddr>[^\s]+)\s+(?<dstaddr>[^\s]+)\s+(?<srcport>[\d-]+)\s+(?<dstport>[\d-]+)\s+(?<protocol>[\d-]+)\s+(?<packets>[\d-]+)\s+(?<bytes>[\d-]+)\s+(?<start>[\d-]+)\s+(?<end>[\d-]+)\s+(?<action>(?:ACCEPT)|(?:REJECT)|(?:-))\s+(?<log_status>(?:OK)|(?:NODATA)|(?:SKIPDATA)|(?:-))(?<body>.*)
+
+Pattern Source: 
+https://docs.chaossearch.io/docs/regex-support
+
+Log Sources:
+https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-records-examples.html
+https://kyhau.github.io/aws-notebook/VpcFlowLogs.html
+https://www.pluralsight.com/cloud-guru/labs/aws/working-with-aws-vpc-flow-logs-for-network-monitoring

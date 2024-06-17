@@ -1,0 +1,8 @@
+(?<remote>[\.0-9]+) (?<identity>[\w\d\-]+) (?<user>[\w\d\-]+) \[(?<date>.*?)\] \"(?<method>\w+) (?<url>.*?) (?<protocol>[\w\/\.\d]+)\" (?<status>\d+) (?<bytes>[\d-]+) \"(?<referer>.*?)\" \"(?<agent>.*?)\"
+
+Pattern Source: 
+https://regex101.com/library/sK2aK6
+
+Log Sources:
+https://github.com/elastic/examples/blob/master/Common%20Data%20Formats/apache_logs/apache_logs
+https://log-sharing.dreamhosters.com/ (hnet-hon-var-log-02282006, SotM34-anton, hnet-hon-var-log-08302005)

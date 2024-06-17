@@ -1,0 +1,8 @@
+(?<ip>.*?) (?<remote_log_name>.*?) (?<userid>.*?) \[(?<date>.*?)(?= ) (?<timezone>.*?)\] \"(?<request_method>.*?) (?<path>.*?)(?<request_version> HTTP\/.*)?\" (?<status>.*?) (?<length>.*?) \"(?<referrer>.*?)\"
+
+Pattern Source: 
+https://stackoverflow.com/questions/40549123/apache-access-log-regex-parsing
+
+Log Sources:
+https://github.com/elastic/examples/blob/master/Common%20Data%20Formats/apache_logs/apache_logs
+https://log-sharing.dreamhosters.com/ (hnet-hon-var-log-02282006, SotM34-anton, hnet-hon-var-log-08302005)

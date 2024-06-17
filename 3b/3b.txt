@@ -1,0 +1,7 @@
+(?<ip>\d+\.\d+\.\d+\.\d+)( - - \[)(?<datetime>[\s\S]+)\] \"(?<verb>[A-Z]+) (?<request>[\S]*) (?<protocol>[\S]+)["] (?<code>\d+) (?<sendbytes>\d+) ["](?<refere>[\S]*)["] ["](?<useragent>[\S\s]+)["]
+
+Pattern Source: 
+https://www.alibabacloud.com/help/en/sls/user-guide/parse-nginx-logs
+
+Log Sources:
+https://github.com/elastic/examples/blob/master/Common%20Data%20Formats/nginx_logs/nginx_logs

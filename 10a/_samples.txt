@@ -1,0 +1,42 @@
+2014-08-29 14:53:58,948 DEBUG ajp-bio-172.16.2.157-8009-exec-111 PostgresIdsDAOImpl#getDatabaseConnection:822 - Attempting to JDBC connect to the database
+2014-08-29 14:53:58,949 DEBUG ajp-bio-172.16.2.157-8009-exec-111 PostgresIdsDAOImpl#getDatabaseConnection:833 - JDBC Driver is registered successfully
+2014-08-29 14:53:58,954 DEBUG ajp-bio-172.16.2.157-8009-exec-111 PostgresIdsDAOImpl#select:389 - Database connection successfully closed.
+2014-08-29 14:53:58,954 DEBUG ajp-bio-172.16.2.157-8009-exec-111 ContentManagementServiceImpl#getNiseImages:915 - Postgres returned 0 pix result(s).
+2014-08-29 14:53:58,955 DEBUG ajp-bio-172.16.2.157-8009-exec-111 ContentManagementServiceImpl#getNiseImages:923 - Could not find any images after image ID 94611681 limit by 500
+2014-08-29 14:53:58,955 DEBUG ajp-bio-172.16.2.157-8009-exec-111 IdsServiceImpl#getNiseImages:2687 - Failed to find any NISE URLs
+2014-08-29 14:53:58,955 DEBUG ajp-bio-172.16.2.157-8009-exec-111 EventsServiceImpl#addUserActivity:82 - There are 1 user activities to be inserted.
+2014-08-29 14:53:58,955 DEBUG ajp-bio-172.16.2.157-8009-exec-111 RestResource#getNewImages:267 - No new images found during this period
+2014-08-29 14:54:00,002 DEBUG pool-2-thread-1 SessionServiceImpl#fetchBannedIps:201 - Banned Ips task is running now
+2014-08-29 14:54:00,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#select:298 - Finding any number of entries in the DB table
+2014-08-29 14:54:00,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#select:351 - Search query: SELECT  *  FROM ONLY bannedips WHERE id is not null;
+2014-08-29 14:54:00,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#getDatabaseConnection:822 - Attempting to JDBC connect to the database
+2014-08-29 14:54:00,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#getDatabaseConnection:833 - JDBC Driver is registered successfully
+2014-08-29 14:54:00,360 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#select:389 - Database connection successfully closed.
+2014-08-29 14:54:00,360 DEBUG pool-2-thread-1 SessionServiceImpl#fetchBannedIps:208 - Postgres returned 31164 banned ips
+2014-08-29 14:54:00,418 DEBUG pool-2-thread-1 SessionServiceImpl#fetchBannedIps:222 - There are 31164 banned ips
+2014-08-29 14:54:20,002 DEBUG pool-2-thread-1 UserServiceImpl#fetchLoginConfig:234 - Fetch the login configuration for banning IPs
+2014-08-29 14:54:20,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#select:298 - Finding any number of entries in the DB table
+2014-08-29 14:54:20,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#select:351 - Search query: SELECT  *  FROM ONLY sitesloginparameters WHERE usernamefail is not null;
+2014-08-29 14:54:20,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#getDatabaseConnection:822 - Attempting to JDBC connect to the database
+2014-08-29 14:54:20,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#getDatabaseConnection:833 - JDBC Driver is registered successfully
+2014-08-29 14:54:20,008 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#select:389 - Database connection successfully closed.
+2014-08-29 14:54:20,008 DEBUG pool-2-thread-1 UserServiceImpl#fetchLoginConfig:241 - Postgres returned 1 login config setting
+2014-08-29 14:54:20,008 DEBUG pool-2-thread-1 UserServiceImpl#fetchLoginConfig:255 - LoginConfig Parameter is updated true
+2014-08-29 14:54:30,002 DEBUG pool-2-thread-1 EventsServiceImpl#processUserActivities:49 - User activities task is running now
+2014-08-29 14:54:30,002 DEBUG pool-2-thread-1 EventsServiceImpl#processUserActivities:56 - There are 1 user activities to be inserted
+2014-08-29 14:54:30,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#select:82 - Finding any number of entries in the DB table
+2014-08-29 14:54:30,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#select:131 - Search query: SELECT id,text FROM user_agents WHERE text='NISE-IDS solr-b04 14000';
+2014-08-29 14:54:30,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#getDatabaseConnection:822 - Attempting to JDBC connect to the database
+2014-08-29 14:54:30,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#getDatabaseConnection:833 - JDBC Driver is registered successfully
+2014-08-29 14:54:30,011 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#select:175 - Database connection successfully closed.
+2014-08-29 14:54:30,011 DEBUG pool-2-thread-1 EventsServiceImpl#getUserAgent:479 - Postgres returned 2 result(s).
+2014-08-29 14:54:30,011 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#insert:403 - Inserting new entry into Postgres DB table
+2014-08-29 14:54:30,011 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#getDatabaseConnection:822 - Attempting to JDBC connect to the database
+2014-08-29 14:54:30,011 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#getDatabaseConnection:833 - JDBC Driver is registered successfully
+2014-08-29 14:54:30,016 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#insert:449 - Database connection successfully closed.
+2014-08-29 14:54:30,016 DEBUG pool-2-thread-1 EventsServiceImpl#insertUserActivity:454 - 1 user activity inserted
+2014-08-29 14:54:30,016 DEBUG pool-2-thread-1 EventsServiceImpl#processUserActivities:70 - At the end of thread there are 0 user activities in the list
+2014-08-29 14:55:00,001 DEBUG pool-2-thread-1 SessionServiceImpl#fetchBannedIps:201 - Banned Ips task is running now
+2014-08-29 14:55:00,001 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#select:298 - Finding any number of entries in the DB table
+2014-08-29 14:55:00,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#select:351 - Search query: SELECT  *  FROM ONLY bannedips WHERE id is not null;
+2014-08-29 14:55:00,002 DEBUG pool-2-thread-1 PostgresIdsDAOImpl#getDatabaseConnection:822 - Attempting to JDBC connect to the database

@@ -1,0 +1,8 @@
+\[(?<severity>\w+)\]\s*(?<remote>[^\s:]+):(?<port>\d+)\s*-\s*(?<id>\d+)\s*"(?<type>[\w]+)\s*(?<class>\w+)\s*(?<name>[^\s]+)\s*(?<proto>\w+)\s*(?<size>\d+)\s*(?<do>\w+)\s*(?<bufsize>\d+)"\s*(?<rcode>\w+)\s*(?<rflags>[^\s]+)\s+(?<rsize>\d+)\s*(?<duration>[^\s]+)
+
+Pattern Source: 
+https://regex101.com/library/soYLdr
+
+Log Sources:
+https://www.datadoghq.com/blog/coredns-metrics/
+https://docs.digitalocean.com/products/kubernetes/how-to/customize-coredns/

@@ -1,0 +1,7 @@
+^(?<version>[^ ]*) (?<timestamp>[^ ]*) (?<hosted_zone_id>[^ ]*) (?<query_name>[^ ]*) (?<query_type>[^ ]*) (?<response_code>[^ ]*) (?<protocol>[^ ]*) (?<edge_location>[^ ]*) (?<resolver_ip_address>[^ ]*) (?<client_subnet>[^ ]*)$
+
+Pattern Source: 
+https://docs.chaossearch.io/docs/regex-support
+
+Log Sources:
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/query-logs.html

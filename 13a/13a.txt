@@ -1,0 +1,7 @@
+^(?<type>.)(?<permission>.+?)\s+(?<replication>\d+|-)\s+(?<user>\w*)\s+(?<group>\w*)\s+(?<size>\d+)\s+(?<time>\d{4}-\d{2}-\d{2}\s\d{2}:\d{2})\s+(?<path>.+)
+
+Pattern Source: 
+https://regex101.com/library/hU9jT7
+
+Log Sources:
+https://regex101.com/library/hU9jT7

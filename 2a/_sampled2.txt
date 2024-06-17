@@ -1,0 +1,250 @@
+[Sat Jul 23 20:25:25 2005] [error] [client 70.178.4.123] Directory index forbidden by rule: /var/www/html/
+[Thu Feb 09 17:14:32 2006] [error] [client 221.221.17.210] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 17:01:19 2006] [error] [client 212.243.136.66] File does not exist: /var/www/html/wordpress
+[Tue Nov 22 05:43:21 2005] [error] [client 200.94.105.213] File does not exist: /var/www/html/drupal
+[Sun Aug 14 12:24:36 2005] [error] [client 210.177.251.61] Directory index forbidden by rule: /var/www/html/
+[Wed Feb 15 10:33:02 2006] [error] [client 82.231.38.27] File does not exist: /var/www/html/blog
+[Tue Jan 31 23:40:13 2006] [error] [client 65.110.43.170] File does not exist: /var/www/html/xmlrpc
+[Mon Jul 25 13:40:11 2005] [error] [client 65.69.85.193] File does not exist: /var/www/html/c
+[Thu Feb 16 06:19:59 2006] [error] [client 12.226.50.50] Directory index forbidden by rule: /var/www/html/
+[Wed Nov 09 01:36:49 2005] [error] [client 218.28.128.84] Directory index forbidden by rule: /var/www/html/
+[Mon Mar 07 00:07:02 2005] [error] [client 210.127.248.52] File does not exist: /var/www/html/sumthin
+[Thu Nov 03 20:59:06 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/b2evo
+[Sat Jan 28 00:46:32 2006] [error] [client 83.84.145.52] File does not exist: /var/www/html/awstats/awstats.pl
+[Tue Nov 08 17:25:23 2005] [error] [client 213.179.232.20] File does not exist: /var/www/html/blogs
+[Sat Feb 11 03:20:42 2006] [error] [client 81.29.195.58] File does not exist: /var/www/html/mambo
+[Sun Oct 09 02:47:25 2005] [error] [client 221.232.178.6] Directory index forbidden by rule: /var/www/html/
+[Wed Nov 16 12:02:00 2005] [error] [client 213.207.142.62] File does not exist: /var/www/html/awstats/awstats.pl
+[Wed Feb 15 21:04:44 2006] [error] [client 63.87.123.156] File does not exist: /var/www/html/sumthin
+[Tue Jan 24 12:52:10 2006] [error] [client 211.99.203.228] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sat Jun 25 14:44:38 2005] [error] [client 222.183.145.119] Directory index forbidden by rule: /var/www/html/
+[Mon Jan 09 03:24:21 2006] [error] [client 202.64.47.171] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Feb 19 13:44:26 2006] [error] [client 62.94.206.86] File does not exist: /var/www/html/mambo
+[Thu Jul 21 21:33:47 2005] [error] [client 218.244.197.34] File does not exist: /var/www/html/c
+[Sat Feb 11 04:28:05 2006] [error] [client 81.166.103.93] File does not exist: /var/www/html/blog
+[Fri Jan 20 05:37:17 2006] [error] [client 81.219.87.4] File does not exist: /var/www/html/awstats/awstats.pl
+[Fri Oct 07 21:16:58 2005] [error] [client 61.145.100.217] script not found or unable to stat: /var/www/cgi-bin/jud.cgi
+[Thu Nov 17 21:46:49 2005] [error] [client 220.194.61.230] File does not exist: /var/www/html/blog
+[Mon Mar 07 11:56:38 2005] [error] [client 210.51.12.238] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Thu Jul 14 19:58:28 2005] [error] [client 24.196.40.66] File does not exist: /var/www/html/sumthin
+[Tue Jan 31 04:33:17 2006] [error] [client 61.178.21.180] File does not exist: /var/www/html/wordpress
+[Tue Jun 28 05:39:25 2005] [error] [client 71.16.50.10] File does not exist: /var/www/html/MSADC
+[Tue Nov 08 04:09:51 2005] [error] [client 204.57.79.90] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 23 11:23:54 2006] [error] [client 82.177.96.6] File does not exist: /var/www/html/blogs
+[Mon Jul 11 05:37:52 2005] [error] [client 64.213.215.254] Directory index forbidden by rule: /var/www/html/
+[Sat Jan 21 04:34:47 2006] [error] [client 216.83.140.52] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 23:31:14 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Tue Mar 01 10:32:37 2005] [error] [client 4.152.207.238] File does not exist: /var/www/html/_vti_bin
+[Tue Nov 29 06:12:18 2005] [error] [client 210.245.233.251] File does not exist: /var/www/html/pavon
+[Wed Mar 02 16:56:50 2005] [error] [client 216.74.229.19] Directory index forbidden by rule: /var/www/html/
+[Sun Mar 13 03:09:20 2005] [error] [client 210.116.59.164] File does not exist: /var/www/html/_vti_bin
+[Thu Sep 22 22:16:09 2005] [error] [client 67.52.36.20] Directory index forbidden by rule: /var/www/html/
+[Tue Jun 21 15:31:19 2005] [error] [client 69.218.26.212] File does not exist: /var/www/html/scripts/..%5c..
+[Thu Feb 16 01:05:24 2006] [error] [client 80.55.248.206] File does not exist: /var/www/html/xmlsrv
+[Wed Jan 25 01:24:08 2006] [error] [client 193.124.133.216] File does not exist: /var/www/html/awstats/awstats.pl
+[Tue Nov 08 04:09:39 2005] [error] [client 204.57.79.90] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sat Jan 21 04:34:39 2006] [error] [client 216.83.140.52] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Thu Nov 17 12:31:33 2005] [error] [client 80.55.121.106] File does not exist: /var/www/html/blog
+[Sun Jan 08 16:35:34 2006] [error] [client 61.134.40.151] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jul 03 15:20:55 2005] [error] [client 222.45.113.2] Directory index forbidden by rule: /var/www/html/
+[Wed Jun 22 20:18:03 2005] [error] [client 80.63.59.10] Directory index forbidden by rule: /var/www/html/
+[Wed Mar 09 05:08:58 2005] [error] [client 210.118.169.20] File does not exist: /var/www/html/foros
+[Fri Jan 27 20:29:02 2006] [error] [client 66.162.153.155] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Oct 02 07:18:54 2005] [error] [client 222.166.160.69] Directory index forbidden by rule: /var/www/html/
+[Wed Jan 25 01:20:09 2006] [error] [client 69.64.38.143] File does not exist: /var/www/html/drupal
+[Sun Jan 22 21:46:52 2006] [error] [client 211.99.203.228] File does not exist: /var/www/html/phpgroupware
+[Sat Jul 09 20:31:01 2005] [error] [client 213.194.182.13] File does not exist: /var/www/html/scripts/..%5c%5c..
+[Wed Feb 15 16:44:51 2006] [error] [client 82.177.96.6] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sat Feb 25 00:08:45 2006] [error] [client 83.19.168.2] File does not exist: /var/www/html/articles
+[Mon Jul 04 13:34:00 2005] [error] [client 209.132.113.122] File does not exist: /var/www/html/cacti
+[Wed Feb 15 16:51:52 2006] [error] [client 64.6.73.199] File does not exist: /var/www/html/cvs
+[Thu Jan 12 10:22:59 2006] [error] [client 68.236.170.254] File does not exist: /var/www/html/scripts/nsiislog.dll
+[Tue Jan 24 12:52:22 2006] [error] [client 211.99.203.228] File does not exist: /var/www/html/wordpress
+[Thu Dec 01 18:28:15 2005] [error] [client 61.19.31.42] File does not exist: /var/www/html/wordpress
+[Tue Jan 17 00:58:07 2006] [error] [client 84.72.250.195] File does not exist: /var/www/html/phpmyadmin
+[Sat Jan 28 11:56:38 2006] [error] [client 62.15.142.233] File does not exist: /var/www/html/wordpress
+[Tue Jan 31 04:33:03 2006] [error] [client 61.178.21.180] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Mar 13 03:33:03 2005] [error] [client 210.116.59.164] File does not exist: /var/www/html/_vti_bin
+[Tue Nov 29 09:17:05 2005] [error] [client 210.245.233.251] File does not exist: /var/www/html/html
+[Mon Feb 07 05:40:04 2005] [error] [client 61.156.24.114] Directory index forbidden by rule: /var/www/html/
+[Mon Feb 20 10:37:45 2006] [error] [client 200.99.135.130] File does not exist: /var/www/html/cvs
+[Sat Nov 26 20:02:10 2005] [error] [client 222.235.45.233] Directory index forbidden by rule: /var/www/html/
+[Sat Jan 14 12:04:59 2006] [error] [client 82.66.245.30] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Tue Aug 09 16:01:54 2005] [error] [client 71.103.173.120] Directory index forbidden by rule: /var/www/html/
+[Mon Feb 20 10:37:58 2006] [error] [client 200.99.135.130] File does not exist: /var/www/html/xmlrpc
+[Sun Feb 26 21:00:31 2006] [error] [client 194.90.30.83] File does not exist: /var/www/html/blog
+[Sat Feb 25 12:03:29 2006] [error] [client 222.238.96.200] Directory index forbidden by rule: /var/www/html/
+[Sat Jun 18 03:48:23 2005] [error] [client 65.105.200.110] Directory index forbidden by rule: /var/www/html/
+[Tue Mar 01 12:51:29 2005] [error] [client 4.152.207.238] File does not exist: /var/www/html/_vti_bin
+[Wed Nov 16 12:02:16 2005] [error] [client 213.207.142.62] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 22 08:28:28 2006] [error] [client 62.175.253.180] File does not exist: /var/www/html/phpgroupware
+[Thu Feb 17 10:36:38 2005] [error] [client 218.7.163.19] File does not exist: /var/www/html/intl
+[Wed Jan 25 01:20:03 2006] [error] [client 69.64.38.143] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Tue Nov 29 06:12:12 2005] [error] [client 210.245.233.251] File does not exist: /var/www/html/wordpress
+[Thu Oct 13 02:34:43 2005] [error] [client 61.158.112.131] File does not exist: /var/www/html/sumthin
+[Fri Nov 11 06:32:18 2005] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Thu Jul 21 03:37:37 2005] [error] [client 218.144.240.75] File does not exist: /var/www/html/cgi-bin2
+[Mon Mar 14 17:04:27 2005] [error] [client 61.232.252.176] Directory index forbidden by rule: /var/www/html/
+[Sat Jul 16 17:41:15 2005] [error] [client 202.103.38.11] Directory index forbidden by rule: /var/www/html/
+[Sun Jun 19 07:53:38 2005] [error] [client 216.183.105.133] Directory index forbidden by rule: /var/www/html/
+[Fri Jan 27 09:40:01 2006] [error] [client 69.13.179.46] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Feb 07 16:22:45 2005] [error] [client 222.95.34.31] script not found or unable to stat: /var/www/cgi-bin/proxytest.pl
+[Fri Jun 17 19:27:36 2005] [error] [client 65.26.196.13] Directory index forbidden by rule: /var/www/html/
+[Sat Jun 11 03:03:08 2005] [error] [client 202.133.98.6] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Wed Mar 09 05:09:01 2005] [error] [client 210.118.169.20] File does not exist: /var/www/html/Forum
+[Sun Mar 06 16:06:30 2005] [error] [client 64.62.145.98] script not found or unable to stat: /var/www/cgi-bin/cgi-bin
+[Thu Feb 09 17:14:30 2006] [error] [client 221.221.17.210] File does not exist: /var/www/html/awstats/awstats.pl
+[Sat Jun 11 03:03:09 2005] [error] [client 202.133.98.6] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Nov 21 23:38:47 2005] [error] [client 221.5.132.211] Directory index forbidden by rule: /var/www/html/
+[Thu Feb 09 03:12:11 2006] [error] [client 219.248.19.9] Directory index forbidden by rule: /var/www/html/
+[Sun Jun 19 01:14:34 2005] [error] [client 60.6.37.176] Directory index forbidden by rule: /var/www/html/
+[Tue Jan 24 12:52:24 2006] [error] [client 211.99.203.228] File does not exist: /var/www/html/xmlrpc
+[Tue Jan 24 12:52:23 2006] [error] [client 211.99.203.228] File does not exist: /var/www/html/xmlrpc
+[Sun Feb 12 02:18:09 2006] [error] [client 217.117.141.166] File does not exist: /var/www/html/mambo
+[Sun Jan 08 18:25:05 2006] [error] [client 218.106.165.188] File does not exist: /var/www/html/xmlsrv
+[Mon Nov 14 00:17:58 2005] [error] [client 213.203.171.98] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 17 12:31:41 2005] [error] [client 80.55.121.106] File does not exist: /var/www/html/drupal
+[Mon Jan 16 17:01:09 2006] [error] [client 212.243.136.66] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sat Jun 11 03:03:10 2005] [error] [client 202.133.98.6] File does not exist: /var/www/html/awstats/awstats.pl
+[Fri Jan 27 11:55:16 2006] [error] [client 202.143.128.18] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /
+[Wed Feb 15 16:52:05 2006] [error] [client 64.6.73.199] File does not exist: /var/www/html/blog
+[Thu Feb 16 01:04:42 2006] [error] [client 80.55.248.206] File does not exist: /var/www/html/mambo
+[Sun Feb 19 00:50:58 2006] [error] [client 137.132.3.6] Directory index forbidden by rule: /var/www/html/
+[Sun Jun 19 02:56:23 2005] [error] [client 65.166.170.188] Directory index forbidden by rule: /var/www/html/
+[Tue Aug 09 22:48:39 2005] [error] [client 221.201.194.165] File does not exist: /var/www/html/scripts/..%5c..
+[Sun Jan 08 16:42:30 2006] [error] [client 193.19.219.217] File does not exist: /var/www/html/drupal
+[Mon Feb 20 09:06:10 2006] [error] [client 80.53.47.86] File does not exist: /var/www/html/wordpress
+[Mon Jul 11 17:35:37 2005] [error] [client 220.130.50.230] File does not exist: /var/www/html/sumthin
+[Sat Aug 13 17:31:26 2005] [error] [client 218.62.32.122] Directory index forbidden by rule: /var/www/html/
+[Sat Sep 10 20:42:49 2005] [error] [client 220.234.0.120] Directory index forbidden by rule: /var/www/html/
+[Tue Jan 31 23:52:56 2006] [error] [client 151.36.65.82] File does not exist: /var/www/html/blogs
+[Tue Jan 24 12:52:18 2006] [error] [client 211.99.203.228] File does not exist: /var/www/html/drupal
+[Fri Feb 17 23:31:56 2006] [error] [client 64.214.80.6] File does not exist: /var/www/html/xmlrpc
+[Wed Jun 29 09:38:18 2005] [error] [client 63.119.14.138] Directory index forbidden by rule: /var/www/html/
+[Sun Jun 19 20:41:27 2005] [error] [client 65.166.170.188] Directory index forbidden by rule: /var/www/html/
+[Mon Sep 12 03:41:07 2005] [error] [client 61.10.7.241] Directory index forbidden by rule: /var/www/html/
+[Sat Jan 14 05:54:33 2006] [error] [client 64.59.72.76] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Fri Nov 11 16:26:21 2005] [error] [client 148.245.179.132] script not found or unable to stat: /var/www/cgi-bin/proxycheck.pl
+[Thu Aug 04 09:01:33 2005] [error] [client 64.108.150.122] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 11 06:32:18 2005] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Thu Jul 14 11:39:03 2005] [error] [client 61.178.176.13] Directory index forbidden by rule: /var/www/html/
+[Sun Aug 14 15:08:42 2005] [error] [client 82.194.166.242] script not found or unable to stat: /var/www/cgi-bin/textenv.pl
+[Tue Jul 19 09:50:07 2005] [error] [client 218.106.69.52] File does not exist: /var/www/html/scripts/..%5c%5c..
+[Thu Jul 21 03:37:29 2005] [error] [client 218.144.240.75] File does not exist: /var/www/html/aws
+[Mon Nov 14 17:00:50 2005] [error] [client 80.92.67.10] File does not exist: /var/www/html/xmlrpc
+[Tue Jan 24 00:53:56 2006] [error] [client 81.192.114.8] File does not exist: /var/www/html/blog
+[Sun Jan 22 21:46:44 2006] [error] [client 211.99.203.228] File does not exist: /var/www/html/blogs
+[Mon Sep 05 21:50:33 2005] [error] [client 61.146.41.126] Directory index forbidden by rule: /var/www/html/
+[Tue Feb 21 06:06:57 2006] [error] [client 69.95.94.130] File does not exist: /var/www/html/cvs
+[Mon Aug 01 19:13:53 2005] [error] [client 220.188.155.151] Directory index forbidden by rule: /var/www/html/
+[Tue Jan 17 01:20:46 2006] [error] [client 66.184.168.195] File does not exist: /var/www/html/blog
+[Sat Jan 28 22:25:50 2006] [error] [client 213.131.241.73] File does not exist: /var/www/html/blogs
+[Tue Jan 24 00:54:28 2006] [error] [client 81.192.114.8] File does not exist: /var/www/html/xmlsrv
+[Mon Feb 20 10:54:34 2006] [error] [client 212.37.101.68] File does not exist: /var/www/html/cvs
+[Wed Feb 15 16:47:15 2006] [error] [client 66.92.189.38] Directory index forbidden by rule: /var/www/html/
+[Sat Jul 02 22:56:49 2005] [error] [client 70.17.255.43] File does not exist: /var/www/html/sumthin
+[Mon Nov 28 13:40:50 2005] [error] [client 65.19.195.6] File does not exist: /var/www/html/Mambo
+[Tue Feb 21 06:07:01 2006] [error] [client 69.95.94.130] File does not exist: /var/www/html/articles
+[Thu Nov 10 10:17:29 2005] [error] [client 64.34.162.99] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 08 16:42:35 2006] [error] [client 193.19.219.217] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 29 13:40:50 2006] [error] [client 193.232.254.50] File does not exist: /var/www/html/blog
+[Mon Jan 16 03:48:38 2006] [error] [client 219.254.35.101] File does not exist: /var/www/html/wordpress
+[Fri Feb 17 23:31:53 2006] [error] [client 64.214.80.6] File does not exist: /var/www/html/wordpress
+[Fri Jan 20 05:37:19 2006] [error] [client 81.219.87.4] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Feb 20 10:37:55 2006] [error] [client 200.99.135.130] File does not exist: /var/www/html/wordpress
+[Thu Jul 21 03:37:38 2005] [error] [client 218.144.240.75] File does not exist: /var/www/html/cgi-bin2
+[Tue Feb 07 03:39:53 2006] [error] [client 67.174.75.74] File does not exist: /var/www/html/drupal
+[Sat Jan 14 12:23:48 2006] [error] [client 24.7.41.192] File does not exist: /var/www/html/blogs
+[Sat Jun 11 04:30:30 2005] [error] [client 194.207.237.21] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 10:51:48 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Tue Mar 08 00:10:23 2005] [error] [client 81.6.250.202] File does not exist: /var/www/html/NULL.printer
+[Thu Jul 21 03:37:36 2005] [error] [client 218.144.240.75] script not found or unable to stat: /var/www/cgi-bin/stats
+[Wed Feb 01 05:08:56 2006] [error] [client 218.104.211.118] File does not exist: /var/www/html/phpgroupware
+[Thu Jul 21 03:37:22 2005] [error] [client 218.144.240.75] Directory index forbidden by rule: /var/www/html/
+[Sun Mar 13 04:01:26 2005] [error] [client 210.116.59.164] File does not exist: /var/www/html/_vti_bin
+[Sat Jun 11 03:03:08 2005] [error] [client 202.133.98.6] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Wed Sep 07 22:16:11 2005] [error] [client 84.9.144.71] Directory index forbidden by rule: /var/www/html/
+[Mon Jul 25 13:57:14 2005] [error] [client 220.174.100.192] Directory index forbidden by rule: /var/www/html/
+[Mon Feb 27 05:40:53 2006] [error] [client 212.34.140.103] File does not exist: /var/www/html/mambo
+[Sun Jun 19 16:58:41 2005] [error] [client 65.120.142.190] Directory index forbidden by rule: /var/www/html/
+[Tue Aug 02 09:37:04 2005] [error] [client 218.14.59.131] Directory index forbidden by rule: /var/www/html/
+[Thu Feb 02 17:50:46 2006] [error] [client 209.26.126.35] Directory index forbidden by rule: /var/www/html/
+[Thu Jul 21 03:37:22 2005] [error] [client 218.144.240.75] Directory index forbidden by rule: /var/www/html/
+[Sat Jun 25 19:10:46 2005] [error] [client 63.199.49.133] Directory index forbidden by rule: /var/www/html/
+[Fri Jun 10 01:24:32 2005] [error] [client 201.252.246.11] Invalid method in request get /scripts/.%252e/.%252e/winnt/system32/cmd.exe?/c+dir
+[Thu Feb 16 02:14:15 2006] [error] [client 194.204.57.103] File does not exist: /var/www/html/articles
+[Tue Nov 15 12:48:08 2005] [error] [client 201.6.53.88] File does not exist: /var/www/html/stat-cgi
+[Sat Jun 18 02:53:50 2005] [error] [client 64.142.39.52] Directory index forbidden by rule: /var/www/html/
+[Mon Jun 20 11:28:48 2005] [error] [client 202.73.162.140] Directory index forbidden by rule: /var/www/html/
+[Wed Aug 24 14:36:16 2005] [error] [client 221.28.152.35] Directory index forbidden by rule: /var/www/html/
+[Fri Jan 20 10:06:33 2006] [error] [client 203.186.238.199] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 19 03:30:14 2005] [error] [client 200.24.17.195] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Fri Jan 27 20:29:09 2006] [error] [client 66.162.153.155] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:49 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Sun Mar 06 16:06:18 2005] [error] [client 64.62.145.98] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Thu Feb 16 01:05:34 2006] [error] [client 80.55.248.206] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Tue Jan 24 00:41:57 2006] [error] [client 209.250.116.251] File does not exist: /var/www/html/wordpress
+[Sun Feb 12 23:01:49 2006] [error] [client 200.69.215.1] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sat Jan 28 11:56:34 2006] [error] [client 62.15.142.233] File does not exist: /var/www/html/blogs
+[Thu Dec 01 18:28:24 2005] [error] [client 61.19.31.42] File does not exist: /var/www/html/xmlsrv
+[Mon Feb 13 11:28:03 2006] [error] [client 206.161.193.98] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Fri Jun 24 13:53:26 2005] [error] [client 81.192.211.88] Directory index forbidden by rule: /var/www/html/
+[Tue Nov 08 04:09:43 2005] [error] [client 204.57.79.90] File does not exist: /var/www/html/blog
+[Sat Jan 28 19:29:34 2006] [error] [client 211.154.174.50] File does not exist: /var/www/html/modules
+[Mon Jul 04 18:25:21 2005] [error] [client 82.79.177.253] File does not exist: /var/www/html/sumthin
+[Wed Jun 15 08:39:03 2005] [error] [client 219.133.247.159] Directory index forbidden by rule: /var/www/html/
+[Sun Jun 19 12:05:56 2005] [error] [client 220.170.88.36] Directory index forbidden by rule: /var/www/html/
+[Sat Feb 11 14:09:21 2006] [error] [client 212.3.249.71] File does not exist: /var/www/html/xmlsrv
+[Sat Jan 14 12:05:09 2006] [error] [client 82.66.245.30] File does not exist: /var/www/html/phpgroupware
+[Sat Oct 15 01:02:26 2005] [error] [client 61.82.131.56] Directory index forbidden by rule: /var/www/html/
+[Wed Feb 01 05:09:01 2006] [error] [client 218.104.211.118] File does not exist: /var/www/html/xmlsrv
+[Sun Oct 02 17:21:18 2005] [error] [client 220.93.65.11] File does not exist: /var/www/html/scripts/..\xc0\xaf..
+[Tue Mar 01 11:55:24 2005] [error] [client 4.152.207.238] File does not exist: /var/www/html/_vti_bin
+[Tue Mar 01 08:13:40 2005] [error] [client 4.152.207.126] File does not exist: /var/www/html/_vti_bin
+[Sun Jan 29 13:40:59 2006] [error] [client 193.232.254.50] File does not exist: /var/www/html/drupal
+[Mon Oct 24 03:25:23 2005] [error] [client 219.151.197.203] Directory index forbidden by rule: /var/www/html/
+[Wed Jan 18 02:06:43 2006] [error] [client 132.208.20.23] File does not exist: /var/www/html/blog
+[Fri Feb 17 23:31:53 2006] [error] [client 64.214.80.6] File does not exist: /var/www/html/wordpress
+[Thu Jul 21 03:37:32 2005] [error] [client 218.144.240.75] File does not exist: /var/www/html/awstats/awstats.pl
+[Sat Jan 21 19:21:10 2006] [error] [client 66.225.203.226] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 08 18:24:49 2006] [error] [client 218.106.165.188] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Fri Sep 23 10:33:02 2005] [error] [client 24.5.11.190] Directory index forbidden by rule: /var/www/html/
+[Tue Nov 29 09:16:46 2005] [error] [client 210.245.233.251] File does not exist: /var/www/html/blog
+[Wed Nov 09 04:44:15 2005] [error] [client 85.214.16.149] File does not exist: /var/www/html/wordpress
+[Sat Feb 11 03:20:43 2006] [error] [client 81.29.195.58] File does not exist: /var/www/html/cache
+[Fri Jan 27 09:40:10 2006] [error] [client 69.13.179.46] File does not exist: /var/www/html/phpgroupware
+[Tue Mar 01 09:35:46 2005] [error] [client 4.152.207.238] File does not exist: /var/www/html/_vti_bin
+[Thu Jul 21 03:37:17 2005] [error] [client 218.144.240.75] Directory index forbidden by rule: /var/www/html/
+[Sat Jan 14 12:23:49 2006] [error] [client 24.7.41.192] File does not exist: /var/www/html/drupal
+[Fri Feb 17 23:31:52 2006] [error] [client 64.214.80.6] File does not exist: /var/www/html/phpgroupware
+[Sat Jan 21 19:21:09 2006] [error] [client 66.225.203.226] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 17:01:16 2006] [error] [client 212.243.136.66] File does not exist: /var/www/html/blogs
+[Thu Feb 16 01:04:48 2006] [error] [client 80.55.248.206] File does not exist: /var/www/html/cvs
+[Sun Mar 13 17:35:46 2005] [error] [client 208.46.133.177] Directory index forbidden by rule: /var/www/html/
+[Mon Jul 04 15:26:42 2005] [error] [client 219.147.5.13] Directory index forbidden by rule: /var/www/html/
+[Thu Jul 21 03:37:20 2005] [error] [client 218.144.240.75] Directory index forbidden by rule: /var/www/html/
+[Wed Sep 28 02:01:35 2005] [error] [client 24.83.86.115] Directory index forbidden by rule: /var/www/html/
+[Fri Jan 13 07:59:02 2006] [error] [client 81.115.141.138] File does not exist: /var/www/html/sumthin
+[Sat Jan 28 13:46:47 2006] [error] [client 81.255.106.210] File does not exist: /var/www/html/blogs
+[Wed Aug 17 05:49:41 2005] [error] [client 219.128.183.203] Directory index forbidden by rule: /var/www/html/
+[Fri Feb 24 17:07:21 2006] [error] [client 85.214.20.161] File does not exist: /var/www/html/cvs
+[Thu Nov 03 20:58:12 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/xmlsrv
+[Mon Mar 07 09:53:18 2005] [error] [client 64.122.238.114] File does not exist: /var/www/html/_vti_bin
+[Tue Aug 16 00:55:28 2005] [error] [client 24.130.216.40] File does not exist: /var/www/html/scripts/..\xc0\xaf..
+[Wed Feb 08 21:08:31 2006] [error] [client 218.14.255.17] Directory index forbidden by rule: /var/www/html/
+[Thu Dec 01 18:28:01 2005] [error] [client 61.19.31.42] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sat Jan 14 12:23:36 2006] [error] [client 24.7.41.192] File does not exist: /var/www/html/awstats/awstats.pl
+[Sat Nov 19 03:30:22 2005] [error] [client 200.24.17.195] File does not exist: /var/www/html/blog
+[Mon Nov 14 17:00:44 2005] [error] [client 80.92.67.10] File does not exist: /var/www/html/blog
+[Mon Mar 14 11:12:40 2005] [error] [client 69.246.7.31] File does not exist: /var/www/html/scripts
+[Sat Nov 19 03:30:35 2005] [error] [client 200.24.17.195] File does not exist: /var/www/html/xmlrpc
+[Thu Feb 16 01:04:51 2006] [error] [client 80.55.248.206] File does not exist: /var/www/html/mambo
+[Sun Jun 12 22:21:21 2005] [error] [client 68.251.32.120] File does not exist: /var/www/html/MSADC
+[Sat Jun 18 01:22:43 2005] [error] [client 64.50.131.82] Directory index forbidden by rule: /var/www/html/
+[Tue Mar 01 08:36:45 2005] [error] [client 4.152.207.126] File does not exist: /var/www/html/_vti_bin
+[Sat Feb 11 04:27:58 2006] [error] [client 81.166.103.93] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Wed Jan 25 01:24:24 2006] [error] [client 193.124.133.216] File does not exist: /var/www/html/xmlsrv
+[Tue Mar 01 15:49:10 2005] [error] [client 63.84.238.40] File does not exist: /var/www/html/scripts
+[Wed Nov 09 06:17:59 2005] [error] [client 24.72.50.113] File does not exist: /var/www/html/awstats/awstats.pl
+[Fri Jul 01 00:57:44 2005] [error] [client 81.169.128.235] Directory index forbidden by rule: /var/www/html/

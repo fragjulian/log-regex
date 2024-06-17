@@ -1,0 +1,8 @@
+(?<method>[A-Z]+)\s(?<url>\S+)\sHTTP\/[\d\.]+\"\s(?<status_code>\d+)\s(?<size>[\d-]+)\s\"(?<referrer>.*?)\"\s\"(?<user_agent>.+?)\".*
+
+Pattern Source: 
+https://help.sumologic.com/docs/manage/field-extractions/fer-templates/apache-access-logs/
+
+Log Sources:
+https://github.com/elastic/examples/blob/master/Common%20Data%20Formats/apache_logs/apache_logs
+https://log-sharing.dreamhosters.com/ (hnet-hon-var-log-02282006, SotM34-anton, hnet-hon-var-log-08302005)

@@ -1,0 +1,7 @@
+(?<timestamp>\d{4}\/\d{2}\/\d{2} \d{2}:\d{2}:\d{2}) \[(?<level>.*)\]\ (?<process_id>\d*)#(?<thread_id>\d*): (?<message>.*)
+
+Pattern Source: 
+https://regex101.com/library/WsGa2V
+
+Log Sources:
+https://regex101.com/library/WsGa2V

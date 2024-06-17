@@ -1,0 +1,7 @@
+(?<Date>\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2},\d{3})\s*\[(?<Level>ERROR.|WARN|INFO|DEBUG).*\]\s*\[(?<Thread>\d*).*\]\s*(?<Message>.*)
+
+Pattern Source: 
+https://regex101.com/library/cB2mZ4
+
+Log Sources:
+https://regex101.com/library/cB2mZ4

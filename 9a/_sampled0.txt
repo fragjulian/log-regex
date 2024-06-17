@@ -1,0 +1,15 @@
+[INFO] 10.244.0.19:36249 - 518 "A IN www.shopist.io.ecommerce.svc.cluster.local. udp 58 false 512" NXDOMAIN qr,aa,rd 151 0.000313196s
+[INFO] 10.244.0.19:33212 - 44373 "A IN www.shopist.io.svc.cluster.local. udp 50 false 512" NXDOMAIN qr,aa,rd 143 0.000209746s
+[INFO] 10.244.0.19:59367 - 19133 "A IN www.shopist.io.cluster.local. udp 46 false 512" NXDOMAIN qr,aa,rd 139 0.000214739s
+[INFO] 10.244.0.19:39809 - 20260 "A IN www.shopist.io.ec2.internal. udp 45 false 512" NXDOMAIN qr,rd,ra 120 0.013290877s
+[INFO] 10.244.0.19:51397 - 13283 "A IN www.shopist.io. udp 32 false 512" NOERROR qr,rd,ra 152 0.034610018s
+[INFO] 127.0.0.1:56186 - 38484 "HINFO IN 300556296135298597.3851195213192789444. udp 56 false 512" NXDOMAIN qr,rd,ra,ad 131 0.003940763s
+[INFO] 10.244.1.134:52328 - 3722 "AAAA IN mirror.atlanticmetro.net.cluster.local. udp 56 false 512" NXDOMAIN qr,aa,rd 149 0.000093086s
+[INFO] 10.244.1.134:40521 - 28128 "A IN example.io. udp 51 false 4096" NOERROR qr,rd,ra 115 0.000944973s
+[INFO] 172.31.69.45:36909 - 57228 "A IN unguard-ad-service.unguard.svc.cluster.local. udp 62 false 512" NOERROR qr,aa,rd 122 0.000171141s
+[INFO] 172.31.73.143:47980 - 11793 "A IN sg-us-east-1-34-232-220-194-dev-9b2e5257-334a-437e-9f2b-bc9b582.dev.dynatracelabs.com.dynatrace.svc.cluster.local. udp 131 false 512" NXDOMAIN qr,aa,rd 224 0.000198528s
+[INFO] 172.31.73.143:51003 - 11456 "AAAA IN sg-us-east-1-34-232-220-194-dev-9b2e5257-334a-437e-9f2b-bc9b582.dev.dynatracelabs.com.svc.cluster.local. udp 121 false 512" NXDOMAIN qr,aa,rd 214 0.000142352s
+[INFO] 172.31.73.143:38277 - 39721 "A IN sg-us-east-1-34-232-220-194-dev-9b2e5257-334a-437e-9f2b-bc9b582.dev.dynatracelabs.com. udp 103 false 512" NOERROR qr,rd,ra 302 0.001295765s
+[INFO] 172.20.164.61:52054 - 29029 "AAAA IN private-link-api.coralogix.in. udp 47 false 512" NOERROR qr,aa,rd,ra 163 0.000061739s
+[INFO] 172.20.164.61:52054 - 15579 "A IN private-link-api.coralogix.in.ap-south-1.compute.internal. udp 75 false 512" NXDOMAIN qr,aa,rd,ra 190 0.000081757s
+[INFO] 172.20.164.61:52054 - 15579 "A IN private-link-api.coralogix.in.ap-south-1.compute.internal. udp 75 false 512" NXDOMAIN aa,rd,ra 190 0.000081757s

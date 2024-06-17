@@ -1,0 +1,6 @@
+\[(?<dttm>.*?)\]\s\[(?:(?<module>.*?):)?(?<level>.*?)\]\s\[pid\s(?<pid>\d*)\]\s\[client\s(?<client>.*?)\]\s(?<message>.*)
+
+Pattern Source: 
+https://regex101.com/library/tG6aV3
+
+Log Sources: internal

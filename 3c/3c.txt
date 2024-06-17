@@ -1,0 +1,7 @@
+(?<ip>\S+) (?<identd>\S+) (?<user>\S+) \[(?<timestamp>[\w:\/]+\s[+\\-]\d{4})\] "(?<action>\S+)\s?(?<path>\S+)\s?(?<protocol>\S+)?" (?<status>\d{3}|-) (?<size>\d+|-)\s?"?(?<referrer>[^\"]*)"?\s?"?(?<useragent>[^\"]*)?"?
+
+Pattern Source: 
+https://gist.github.com/ruanbekker/cb4ebdc24331661ca120f20b4445ad75
+
+Log Sources:
+https://github.com/elastic/examples/blob/master/Common%20Data%20Formats/nginx_logs/nginx_logs

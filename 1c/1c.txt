@@ -1,0 +1,8 @@
+(?<src_ip>\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\D{1,6}(?<date_time>[^ ]+)\s(?<GMT_offset>[^ ]+)\]\s"(?<action>(GET|POST|HEAD|TRACE|PUT|DELETE|CONNECT))\s(?<hash_url>[^ ]+)\s(?<protocol>[^\"]+)\"\s(?<code>\d{1,3})\s(?<size>[^ ]+)\s\"(?<referrer>[^ ]+)\"\s\"(?<user_agent>[^ ]+.+)\"
+
+Pattern Source: 
+https://regex101.com/library/xV1nS4
+
+Log Sources:
+https://github.com/elastic/examples/blob/master/Common%20Data%20Formats/apache_logs/apache_logs
+https://log-sharing.dreamhosters.com/ (hnet-hon-var-log-02282006, SotM34-anton, hnet-hon-var-log-08302005)

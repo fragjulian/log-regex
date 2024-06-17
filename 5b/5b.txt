@@ -1,0 +1,7 @@
+(?<datetime>\d{4}.\d{2}.\d{2}\t\d{2}.\d{2}.\d{2})\t(?<x_edge_location>\S+)\t(?<sc_bytes>\d+)\t(?<c_ip>\d+.\d+.\d+.\d+)\t(?<cs_method>\S+)\t(?<cs_Host>\S+)\t(?<cs_uri_stem>\S+)\t(?<cs_status>\d+)\t(?<cs_referer>\S+)\t(?<cs_User_Agent>\S+)\t(?<cs_uri_query>\S+)\t(?<cs_Cookie>\S+)\t(?<x_edge_result_type>\S+)\t(?<x_edge_request_id>\S+)\t(?<x_host_header>\S+)\t(?<cs_protocol>\S+)\t(?<cs_bytes>\S+)\t(?<time_taken>\d+?.\d+?)\t(?<x_forwarded_for>\S+)\t(?<ssl_protocol>\S+)\t(?<ssl_cipher>\S+)\t(?<x_edge_response_result_type>\S+)\t(?<cs_protocol_version>\S+)\t(?<fle_status>\S+)\t(?<fle_encrypted_fields>\S+)
+
+Pattern Source: 
+https://docs.chaossearch.io/docs/regex-support
+
+Log Sources:
+https://github.com/aws-samples/amazon-cloudfront-log-analysis/blob/master/lab1-serveless-cloudfront-log-analysis/sample-logs/raw-logs/sample-cloudfront-access-logs.gz

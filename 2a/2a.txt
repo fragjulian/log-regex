@@ -1,0 +1,7 @@
+^\[[^ ]* (?<time>[^\]]*)\] \[(?<level>[^\]]*)\](?: \[pid (?<pid>[^\]]*)\])? \[client (?<client>[^\]]*)\] (?<message>.*)$
+
+Pattern Source: 
+https://docs.fluentd.org/parser/apache_error
+
+Log Sources:
+https://log-sharing.dreamhosters.com/ (hnet-hon-var-log-02282006, SotM34-anton, hnet-hon-var-log-08302005)

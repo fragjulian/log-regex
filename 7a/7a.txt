@@ -1,0 +1,7 @@
+^(?<owner>\S+) (?<bucket>\S+) \[(?<timestamp>[^\]]+)\] (?<ip_address>\S+) (?<requester>\S+) (?<request_id>\S+) (?<operation>\S+) (?<key>\S+) ("(?<request_uri>[^"]+)"|-) (?<status>\S+) (?<error_code>\S+) (?<response_bytes>\S+) (?<object_size>\S+) (?<request_ms>\S+) (?<processing_ms>\S+) ("(?<referrer>.+?)"|-) ("(?<user_agent>.+?)"|-) (?<version_id>\S+)
+
+Pattern Source: 
+https://serverfault.com/questions/738377/how-to-parse-s3-logs
+
+Log Sources:
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/LogFormat.html

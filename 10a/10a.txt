@@ -1,0 +1,7 @@
+(?<time>\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2},\d{3}) (?<level>\S*) (?<processor>\S*) (?<serviceLayer>\S*):(?<lineNumber>\d*) - (?<mess>.*)
+
+Pattern Source: 
+https://regex101.com/library/dW2kA9
+
+Log Sources:
+https://regex101.com/library/dW2kA9
