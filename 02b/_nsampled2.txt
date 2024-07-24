@@ -1,0 +1,250 @@
+[Tue Nov 29 06:12:12 2005] [error] [client 210.245.233.251] File does not exist: /var/www/html/html
+[Mon Dec 05 13:52:19 2005] [notice] jk2_init() Found child 6034 in scoreboard slot 7
+[Mon Feb 27 00:54:46 2006] [error] [client 125.173.118.40] Directory index forbidden by rule: /var/www/html/
+[Mon Feb 20 00:56:05 2006] [error] [client 216.127.92.9] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Thu Jul 21 03:37:34 2005] [error] [client 218.144.240.75] File does not exist: /var/www/html/bin
+[Sun Mar 13 03:33:03 2005] [error] [client 210.116.59.164] File does not exist: /var/www/html/_vti_bin
+[Mon Jan 23 14:17:28 2006] [error] [client 85.178.97.34] File does not exist: /var/www/html/awstats/awstats.pl
+[Sat Jan 14 12:23:59 2006] [error] [client 24.7.41.192] File does not exist: /var/www/html/xmlsrv
+[Mon Dec 05 07:48:55 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Tue Jan 17 01:35:44 2006] [error] [client 61.70.233.24] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Thu Jul 21 03:37:21 2005] [error] [client 218.144.240.75] Directory index forbidden by rule: /var/www/html/
+[Wed Nov 30 13:30:52 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Wed Feb 15 16:52:01 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Nov 22 18:50:42 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 08 16:35:42 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Jul 07 14:16:53 2005] [error] [client 222.218.157.98] Directory index forbidden by rule: /var/www/html/
+[Fri Jan 20 08:19:27 2006] [error] [client 64.236.104.1] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Dec 25 04:02:20 2005] [error] jk2_init() Can't find child 10083 in scoreboard
+[Thu Jul 21 03:37:33 2005] [error] [client 218.144.240.75] File does not exist: /var/www/html/awstats/cgi-bin
+[Mon Nov 28 13:41:01 2005] [notice] jk2_init() Found child 31021 in scoreboard slot 31
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+[Sat Jun 11 03:04:01 2005] [notice] mod_jk2 Shutting down
+[Thu Jul 14 11:28:23 2005] [error] [client 67.173.182.5] Directory index forbidden by rule: /var/www/html/
+[Mon Dec 05 16:38:17 2005] [notice] jk2_init() Found child 6442 in scoreboard slot 6
+script not found or unable to stat
+[Sun Nov 20 01:22:04 2005] [notice] jk2_init() Found child 15846 in scoreboard slot 1
+[Sun Dec 04 02:57:20 2005] [notice] jk2_init() Found child 27558 in scoreboard slot 8
+[Sat Feb 11 14:09:16 2006] [error] [client 212.3.249.71] File does not exist: /var/www/html/phpgroupware
+[Sun Feb 12 23:02:01 2006] [error] [client 200.69.215.1] File does not exist: /var/www/html/xmlsrv
+[Sat Dec 03 11:27:06 2005] [notice] jk2_init() Found child 25205 in scoreboard slot 9
+[Mon Nov 21 08:43:10 2005] [notice] jk2_init() Found child 28210 in scoreboard slot 0
+script not found or unable to stat
+[Sun Aug 28 04:10:39 2005] [error] jk2_init() Can't find child 25862 in scoreboard
+[Wed Sep 07 16:28:27 2005] [error] [client 218.111.201.241] Directory index forbidden by rule: /var/www/html/
+[Wed Nov 30 07:31:50 2005] [notice] jk2_init() Found child 7906 in scoreboard slot 9
+[Fri Feb 10 17:40:41 2006] [error] [client 144.202.242.108] File does not exist: /var/www/html/drupal
+[Sat Aug 27 01:05:18 2005] [error] [client 70.17.255.43] File does not exist: /var/www/html/sumthin
+[Mon Jan 16 03:48:44 2006] [notice] mod_jk2 Shutting down
+[Mon Nov 21 11:41:28 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Jul 21 03:37:31 2005] [error] [client 218.144.240.75] attempt to invoke directory as script: /var/www/cgi-bin/
+script not found or unable to stat
+[Fri Jun 10 21:03:14 2005] [error] [client 61.142.136.20] File does not exist: /var/www/html/msadc
+[Thu Nov 17 12:32:07 2005] [error] [client 80.55.121.106] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Tue Jan 10 05:02:58 2006] [error] [client 163.117.142.142] File does not exist: /var/www/html/drupal
+[Sat Jun 11 03:03:12 2005] [error] [client 202.133.98.6] File does not exist: /var/www/html/stats/awstats.pl
+[Wed Jan 18 02:06:52 2006] [error] [client 132.208.20.23] File does not exist: /var/www/html/wordpress
+[Mon Feb 07 20:19:42 2005] [error] [client 222.95.39.192] File does not exist: /var/www/html/b.t, referer: Http://www.bbxiong.com
+[Tue Jan 10 04:33:43 2006] [error] [client 202.124.131.59] File does not exist: /var/www/html/sumthin
+[Wed Nov 23 16:30:54 2005] [error] mod_jk child workerEnv in error state 4
+script not found or unable to stat
+[Sun Mar 13 01:16:13 2005] [error] [client 210.116.59.164] File does not exist: /var/www/html/_vti_bin
+[Sun Dec 04 06:18:12 2005] [notice] jk2_init() Found child 32445 in scoreboard slot 10
+[Fri Nov 11 06:32:16 2005] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sat Feb 11 14:09:15 2006] [error] [client 212.3.249.71] File does not exist: /var/www/html/drupal
+[Thu Jan 19 17:34:04 2006] [error] [client 221.14.218.249] Directory index forbidden by rule: /var/www/html/
+[Tue Jan 24 20:49:21 2006] [error] jk2_init() Can't find child 476 in scoreboard
+[Tue Nov 08 08:47:52 2005] [error] [client 84.174.247.181] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Nov 28 11:11:07 2005] [notice] jk2_init() Found child 30583 in scoreboard slot 4
+[Thu Dec 01 19:41:19 2005] [notice] jk2_init() Found child 17585 in scoreboard slot 6
+[Mon Sep 12 07:04:14 2005] [error] [client 67.170.201.191] Directory index forbidden by rule: /var/www/html/
+[Tue Sep 06 12:36:59 2005] [error] [client 63.200.185.4] Directory index forbidden by rule: /var/www/html/
+[Wed Jan 25 01:20:11 2006] [error] [client 69.64.38.143] File does not exist: /var/www/html/phpgroupware
+[Thu Jul 21 03:37:32 2005] [error] [client 218.144.240.75] File does not exist: /var/www/html/bin
+[Mon Jan 16 01:08:45 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Thu Jul 21 03:37:28 2005] [error] mod_jk child init 1 -2
+[Fri Nov 18 19:36:44 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Sun Oct 16 07:07:43 2005] [error] [client 221.7.247.218] Directory index forbidden by rule: /var/www/html/
+[Mon Dec 05 04:07:23 2005] [notice] jk2_init() Found child 3672 in scoreboard slot 7
+[Sun Jan 22 08:28:23 2006] [error] [client 62.175.253.180] File does not exist: /var/www/html/blog
+[Mon Nov 21 14:37:09 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jul 24 04:20:26 2005] [notice] mod_jk2 Shutting down
+[Thu Jan 26 12:20:09 2006] [warn] child process 894 still did not exit, sending a SIGTERM
+[Fri Nov 11 06:32:16 2005] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Nov 21 15:21:53 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Fri Feb 10 17:40:38 2006] [error] [client 144.202.242.108] File does not exist: /var/www/html/blog
+script not found or unable to stat
+script not found or unable to stat
+[Thu Feb 24 09:06:17 2005] [warn] child process 25835 still did not exit, sending a SIGTERM
+[Tue Nov 22 21:24:09 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Sat Nov 19 03:30:22 2005] [error] [client 200.24.17.195] File does not exist: /var/www/html/drupal
+[Fri Jan 27 20:29:02 2006] [error] [client 66.162.153.155] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Thu Jul 21 03:37:17 2005] [error] [client 218.144.240.75] Directory index forbidden by rule: /var/www/html/
+[Mon Nov 21 01:06:04 2005] [error] mod_jk child workerEnv in error state 4
+[Mon Dec 05 18:27:29 2005] [notice] jk2_init() Found child 6688 in scoreboard slot 8
+[Tue Mar 01 08:34:13 2005] [error] [client 4.152.207.126] File does not exist: /var/www/html/_vti_bin
+[Sat Dec 03 01:03:52 2005] [notice] jk2_init() Found child 22078 in scoreboard slot 10
+[Sun Jan 08 16:35:56 2006] [error] [client 61.134.40.151] File does not exist: /var/www/html/drupal
+[Sun Jan 22 21:46:51 2006] [error] [client 211.99.203.228] File does not exist: /var/www/html/blog
+[Sat Nov 19 11:05:54 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Nov 29 06:10:17 2005] [error] [client 210.245.233.251] File does not exist: /var/www/html/b2
+[Sun Dec 04 16:52:46 2005] [notice] jk2_init() Found child 1325 in scoreboard slot 8
+[Mon Feb 20 00:56:14 2006] [error] [client 216.127.92.9] File does not exist: /var/www/html/wordpress
+[Mon Aug 29 07:51:16 2005] [error] [client 221.228.157.2] Directory index forbidden by rule: /var/www/html/
+[Sun Dec 04 06:12:31 2005] [notice] jk2_init() Found child 32423 in scoreboard slot 9
+[Mon Jun 13 06:21:39 2005] [error] [client 219.133.246.207] Directory index forbidden by rule: /var/www/html/
+[Wed Nov 30 05:06:55 2005] [notice] jk2_init() Found child 7493 in scoreboard slot 8
+script not found or unable to stat
+[Sun Nov 20 23:36:12 2005] [notice] jk2_init() Found child 25152 in scoreboard slot 1
+[Fri Sep 23 09:13:51 2005] [error] [client 61.128.234.226] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 08 16:42:21 2006] [error] [client 193.19.219.217] File does not exist: /var/www/html/awstats/awstats.pl
+[Wed Feb 08 21:05:12 2006] [error] [client 61.84.135.157] File does not exist: /var/www/html/wordpress
+[Wed Jan 25 01:24:20 2006] [error] [client 193.124.133.216] File does not exist: /var/www/html/wordpress
+[Mon Nov 21 11:57:55 2005] [error] mod_jk child workerEnv in error state 4
+[Mon Jan 09 10:26:54 2006] [error] [client 82.179.164.139] File does not exist: /var/www/html/blog
+[Sun Feb 26 21:00:40 2006] [error] [client 194.90.30.83] File does not exist: /var/www/html/xmlsrv
+[Fri Feb 03 22:33:18 2006] [error] [client 222.166.160.30] Directory index forbidden by rule: /var/www/html/
+[Thu Jul 21 03:37:21 2005] [error] [client 218.144.240.75] Directory index forbidden by rule: /var/www/html/
+[Fri Sep 23 07:13:53 2005] [error] [client 61.184.84.21] Directory index forbidden by rule: /var/www/html/
+[Wed Nov 30 00:36:47 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Jun 11 03:03:06 2005] [error] mod_jk child init 1 -2
+[Mon Dec 05 03:36:51 2005] [notice] jk2_init() Found child 2812 in scoreboard slot 6
+[Fri Jan 06 18:51:03 2006] [error] [client 24.68.238.187] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 07 17:35:37 2005] [error] [client 203.204.202.148] Directory index forbidden by rule: /var/www/html/
+[Fri Jun 17 04:03:46 2005] [error] jk2_init() Can't find child 27987 in scoreboard
+[Sat Jan 28 22:25:57 2006] [error] [client 213.131.241.73] File does not exist: /var/www/html/blog
+[Sun Dec 04 06:17:18 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Fri Jun 10 21:03:06 2005] [error] [client 61.142.136.20] File does not exist: /var/www/html/_vti_bin
+[Sat Jun 11 03:03:09 2005] [error] [client 202.133.98.6] script not found or unable to stat: /var/www/cgi-bin/stats
+[Fri Mar 11 10:04:30 2005] [error] [client 220.170.88.36] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 02:35:52 2006] [notice] jk2_init() Found child 26619 in scoreboard slot 10
+[Tue Nov 29 05:34:16 2005] [notice] jk2_init() Found child 3947 in scoreboard slot 11
+[Mon Jun 13 18:38:25 2005] [error] [client 195.23.79.241] Directory index forbidden by rule: /var/www/html/
+[Tue Oct 25 10:06:17 2005] [notice] mod_jk2 Shutting down
+[Wed Mar 09 05:08:51 2005] [error] [client 210.118.169.20] File does not exist: /var/www/html/phpBB
+[Mon Nov 21 02:03:04 2005] [notice] jk2_init() Found child 25920 in scoreboard slot 4
+[Sat Feb 11 04:28:05 2006] [error] [client 81.166.103.93] File does not exist: /var/www/html/drupal
+[Thu Jul 21 03:37:18 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Dec 03 21:40:01 2005] [notice] jk2_init() Found child 26942 in scoreboard slot 7
+[Thu Nov 17 21:44:37 2005] [error] [client 220.194.61.230] File does not exist: /var/www/html/awstats/awstats.pl
+[Thu Jul 21 03:37:16 2005] [notice] jk2_init() Found child 3695 in scoreboard slot 36
+script not found or unable to stat
+[Sat Jan 28 00:46:43 2006] [error] [client 83.84.145.52] File does not exist: /var/www/html/phpgroupware
+[Sun Aug 14 04:03:52 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Jan 21 19:21:04 2006] [error] [client 66.225.203.226] File does not exist: /var/www/html/drupal
+[Thu Feb 24 02:29:49 2005] [error] [client 66.99.250.98] File does not exist: /var/www/html/cgi
+[Thu Jun 16 04:59:15 2005] [error] [client 61.49.119.166] Directory index forbidden by rule: /var/www/html/
+[Thu Nov 17 09:50:37 2005] [error] mod_jk child workerEnv in error state 3
+[Sun Sep 11 04:03:47 2005] [notice] mod_jk2 Shutting down
+[Sun Jun 26 22:30:56 2005] [error] [client 218.24.170.69] File does not exist: /var/www/html/scripts/root.exe
+script not found or unable to stat
+[Sun Jan 15 04:11:25 2006] [error] mod_jk child init 1 -2
+[Tue Jan 10 05:02:59 2006] [error] [client 163.117.142.142] File does not exist: /var/www/html/phpgroupware
+[Mon Nov 21 01:27:57 2005] [notice] jk2_init() Found child 25806 in scoreboard slot 2
+[Tue Nov 29 06:12:32 2005] [notice] jk2_init() Found child 4096 in scoreboard slot 9
+[Wed Aug 17 02:31:00 2005] [error] [client 38.138.93.66] Directory index forbidden by rule: /var/www/html/
+[Tue Nov 22 03:36:21 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jul 03 04:08:02 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Nov 13 22:51:19 2005] [error] [client 67.104.133.214] Directory index forbidden by rule: /var/www/html/
+[Thu Jul 21 03:37:18 2005] [error] [client 218.144.240.75] Directory index forbidden by rule: /var/www/html/
+[Wed Aug 17 00:17:43 2005] [error] [client 68.239.87.134] Directory index forbidden by rule: /var/www/html/
+script not found or unable to stat
+[Thu Jul 21 03:37:22 2005] [error] [client 218.144.240.75] Directory index forbidden by rule: /var/www/html/
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Sat Dec 03 10:46:34 2005] [notice] jk2_init() Found child 25072 in scoreboard slot 6
+[Wed Feb 15 16:47:15 2006] [error] [client 66.92.189.38] Directory index forbidden by rule: /var/www/html/
+[Sun Nov 20 14:36:27 2005] [error] [client 219.239.227.58] File does not exist: /var/www/html/xmlrpc
+[Sun Dec 04 04:19:39 2005] [notice] jk2_init() Found child 28602 in scoreboard slot 6
+[Sun Dec 04 04:32:56 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Jun 27 04:02:49 2005] [notice] mod_jk2 Shutting down
+[Tue Nov 22 05:42:23 2005] [error] [client 200.94.105.213] File does not exist: /var/www/html/phpgroupware
+[Mon Feb 20 19:48:35 2006] [error] [client 209.137.246.36] File does not exist: /var/www/html/blog
+[Sun Aug 28 04:10:39 2005] [error] jk2_init() Can't find child 25857 in scoreboard
+[Sun Nov 20 03:38:59 2005] [notice] jk2_init() Found child 16188 in scoreboard slot 4
+[Thu Jun 09 06:07:05 2005] [notice] LDAP: Built with OpenLDAP LDAP SDK
+[Mon Jan 09 05:44:53 2006] [error] [client 131.178.5.110] File does not exist: /var/www/html/phpgroupware
+[Wed Mar 09 05:08:50 2005] [error] [client 210.118.169.20] File does not exist: /var/www/html/phpBB
+[Thu Feb 16 01:05:29 2006] [error] [client 80.55.248.206] File does not exist: /var/www/html/wordpress
+[Wed Feb 01 11:23:02 2006] [error] [client 66.156.87.68] Directory index forbidden by rule: /var/www/html/
+[Wed Mar 16 18:23:18 2005] [error] [client 218.85.9.143] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 08 02:12:48 2006] [error] [client 83.16.14.142] File does not exist: /var/www/html/sumthin
+[Sun Dec 25 04:02:20 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Jan 30 03:46:39 2006] [error] [client 218.64.38.214] Directory index forbidden by rule: /var/www/html/
+[Sun Mar 06 04:05:20 2005] [warn] child process 24887 still did not exit, sending a SIGTERM
+[Sat Nov 19 16:31:16 2005] [notice] jk2_init() Found child 14597 in scoreboard slot 0
+[Thu Jul 21 03:37:15 2005] [error] [client 218.144.240.75] Directory index forbidden by rule: /var/www/html/
+[Wed Jul 27 04:20:08 2005] [error] [client 83.160.5.249] Directory index forbidden by rule: /var/www/html/
+[Mon Jan 09 10:21:46 2006] [error] [client 68.96.18.125] File does not exist: /var/www/html/blog
+[Wed Nov 30 06:40:24 2005] [error] mod_jk child workerEnv in error state 5
+[Tue Feb 14 19:10:46 2006] [error] [client 201.28.43.194] File does not exist: /var/www/html/wordpress
+[Sat Jan 28 13:46:56 2006] [error] [client 81.255.106.210] File does not exist: /var/www/html/xmlrpc
+[Thu Dec 01 18:27:57 2005] [notice] jk2_init() Found child 17414 in scoreboard slot 15
+[Wed Nov 23 05:40:39 2005] [error] mod_jk child workerEnv in error state 4
+[Sat Dec 03 21:00:47 2005] [notice] jk2_init() Found child 26784 in scoreboard slot 6
+[Sun Dec 04 04:32:27 2005] [error] mod_jk child workerEnv in error state 6
+[Fri Nov 18 19:51:47 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Jan 23 11:23:54 2006] [error] [client 82.177.96.6] File does not exist: /var/www/html/blogs
+[Sat Dec 03 07:36:42 2005] [notice] jk2_init() Found child 24603 in scoreboard slot 9
+[Wed Jan 11 12:27:41 2006] [error] [client 216.72.4.139] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Wed Nov 23 03:06:22 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Wed Nov 23 18:55:24 2005] [error] mod_jk child workerEnv in error state 4
+[Thu Jan 19 17:34:07 2006] [error] [client 221.14.218.249] Directory index forbidden by rule: /var/www/html/
+[Wed Sep 14 18:58:38 2005] [notice] jk2_init() Found child 32012 in scoreboard slot 11
+[Thu Jul 21 03:39:11 2005] [notice] mod_jk2 Shutting down
+[Tue Nov 29 12:56:56 2005] [error] [client 65.19.195.6] File does not exist: /var/www/html/drupal
+[Mon Feb 20 09:06:08 2006] [error] [client 80.53.47.86] File does not exist: /var/www/html/phpgroupware
+[Tue Nov 15 12:34:15 2005] [notice] jk2_init() Found child 31159 in scoreboard slot 7
+[Sat Jun 11 03:03:07 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Wed Mar 09 05:08:57 2005] [error] [client 210.118.169.20] File does not exist: /var/www/html/discussion
+[Tue Nov 29 06:12:18 2005] [error] [client 210.245.233.251] File does not exist: /var/www/html/log
+script not found or unable to stat
+[Mon Feb 13 11:28:01 2006] [error] [client 206.161.193.98] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+script not found or unable to stat
+[Fri Jun 24 13:23:10 2005] [error] [client 201.133.236.1] Directory index forbidden by rule: /var/www/html/
+[Wed Nov 23 07:55:57 2005] [error] mod_jk child workerEnv in error state 4
+[Mon Nov 21 17:46:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Fri Jun 17 04:03:46 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Nov 28 11:31:13 2005] [error] mod_jk child workerEnv in error state 5
+[Thu Aug 25 13:11:15 2005] [error] [client 68.161.247.244] File does not exist: /var/www/html/msadc
+[Wed Jul 13 11:30:08 2005] [error] [client 69.4.112.185] Directory index forbidden by rule: /var/www/html/
+script not found or unable to stat
+[Sat Jan 21 04:34:37 2006] [error] [client 216.83.140.52] File does not exist: /var/www/html/awstats/awstats.pl
+[Sat Dec 03 05:21:38 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Jan 16 17:01:14 2006] [error] [client 212.243.136.66] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:46 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Thu Jul 21 03:37:18 2005] [error] mod_jk child init 1 -2
+[Mon Jul 18 05:33:36 2005] [error] [client 210.115.233.107] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Nov 20 18:27:27 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Nov 08 04:09:43 2005] [error] [client 204.57.79.90] File does not exist: /var/www/html/blog
+script not found or unable to stat
+[Sun Jan 08 16:42:21 2006] [error] [client 193.19.219.217] File does not exist: /var/www/html/awstats/awstats.pl
+script not found or unable to stat
+script not found or unable to stat
+[Thu Jul 21 03:37:32 2005] [error] [client 218.144.240.75] attempt to invoke directory as script: /var/www/cgi-bin/
+[Thu Jul 21 03:37:28 2005] [error] [client 218.144.240.75] File does not exist: /var/www/html/awstats/awstats.pl
+script not found or unable to stat
+[Sun Feb 26 21:00:36 2006] [error] [client 194.90.30.83] File does not exist: /var/www/html/wordpress
+[Sat Feb 11 09:53:49 2006] [error] [client 80.68.92.54] File does not exist: /var/www/html/xmlsrv
+[Sun Jun 26 04:04:29 2005] [error] mod_jk child init 1 -2
+[Sun Mar 13 10:36:11 2005] [error] [client 218.1.111.50] Directory index forbidden by rule: /var/www/html/
+[Thu Jul 21 03:37:27 2005] [error] [client 218.144.240.75] File does not exist: /var/www/html/adm
+[Sun Mar 06 16:06:38 2005] [error] [client 64.62.145.98] File does not exist: /var/www/html/stat-cgi
+[Sun Aug 28 04:10:36 2005] [error] env.createBean2(): Factory error creating worker.jni:onStartup ( worker.jni, onStartup)
+[Sun Jul 10 04:04:42 2005] [notice] Digest: generating secret for digest authentication ...
+[Mon Dec 05 04:01:23 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Wed Feb 01 12:21:42 2006] [error] [client 66.211.138.29] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Tue Nov 29 06:06:23 2005] [error] mod_jk child workerEnv in error state 5
+[Tue Nov 29 06:12:13 2005] [error] uriMap.mapUri() uri must start with /
+[Thu Jul 21 03:37:26 2005] [error] [client 218.144.240.75] File does not exist: /var/www/html/admin
+[Fri Feb 10 19:24:55 2006] [error] [client 202.143.172.178] File does not exist: /var/www/html/drupal
+[Mon Nov 21 12:33:10 2005] [error] mod_jk child workerEnv in error state 4
+[Thu Jun 09 06:07:20 2005] [error] mod_jk child init 1 0
+[Sun Oct 09 11:38:23 2005] [error] [client 207.71.220.100] Directory index forbidden by rule: /var/www/html/
+script not found or unable to stat
+[Wed Feb 15 16:44:54 2006] [error] mod_jk child init 1 -2

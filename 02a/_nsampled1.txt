@@ -1,0 +1,250 @@
+[Mon Nov 28 05:02:48 2005] [notice] jk2_init() Found child 29840 in scoreboard slot 6
+[Wed Nov 23 14:51:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Wed Sep 28 09:12:09 2005] [error] jk2_init() Can't find child 2306 in scoreboard
+[Sun Nov 20 16:28:43 2005] [error] mod_jk child workerEnv in error state 4
+[Sun Dec 04 17:26:04 2005] [notice] jk2_init() Found child 1461 in scoreboard slot 8
+[Mon Nov 21 03:29:29 2005] [notice] jk2_init() Found child 26458 in scoreboard slot 0
+[Mon Nov 28 23:16:45 2005] [notice] jk2_init() Found child 32394 in scoreboard slot 4
+[Sun Dec 04 07:13:10 2005] [notice] jk2_init() Found child 316 in scoreboard slot 9
+[Sun Jul 03 04:08:02 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Nov 21 00:56:26 2005] [notice] jk2_init() Found child 25589 in scoreboard slot 0
+[Thu Jul 21 03:37:15 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Dec 03 05:02:30 2005] [notice] jk2_init() Found child 24173 in scoreboard slot 7
+[Sat Dec 03 05:21:27 2005] [notice] jk2_init() Found child 24236 in scoreboard slot 6
+[Sun Dec 04 04:23:02 2005] [notice] jk2_init() Found child 28623 in scoreboard slot 8
+[Fri Jun 10 11:32:27 2005] [error] env.createBean2(): Factory error creating worker.jni:onStartup ( worker.jni, onStartup)
+[Sun Dec 11 04:06:46 2005] [error] config.update(): Can't create worker.jni:onShutdown
+[Thu Nov 03 16:18:13 2005] [notice] mod_jk2 Shutting down
+[Mon Feb 20 04:59:56 2006] [notice] jk2_init() Found child 5525 in scoreboard slot 76
+[Tue Dec 06 12:24:26 2005] [error] jk2_init() Can't find child 2329 in scoreboard
+[Sun Nov 20 17:13:52 2005] [notice] jk2_init() Found child 23042 in scoreboard slot 0
+[Mon Feb 20 04:59:56 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+script not found or unable to stat
+[Mon Nov 21 23:10:37 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Sat Dec 03 21:26:48 2005] [notice] jk2_init() Found child 26875 in scoreboard slot 7
+[Sun Dec 04 04:47:39 2005] [notice] jk2_init() Found child 30764 in scoreboard slot 8
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Sun Nov 20 03:30:46 2005] [error] mod_jk child workerEnv in error state 3
+script not found or unable to stat
+[Sun Jan 15 04:11:25 2006] [error] mod_jk child init 1 -2
+[Wed Nov 23 07:35:45 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Nov 19 20:05:28 2005] [notice] jk2_init() Found child 15046 in scoreboard slot 3
+[Wed Jan 25 01:24:17 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:22:17 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Jun 25 13:00:25 2005] [error] jk2_init() Can't find child 31776 in scoreboard
+[Sun Sep 18 04:07:22 2005] [notice] Digest: generating secret for digest authentication ...
+[Tue Jun 21 22:16:01 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Feb 25 03:52:14 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:22:08 2005] [notice] jk2_init() Found child 28615 in scoreboard slot 7
+[Tue Dec 06 01:36:18 2005] [notice] jk2_init() Found child 7614 in scoreboard slot 8
+[Mon Dec 05 18:40:54 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Tue Nov 29 09:16:42 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Fri Dec 02 11:38:15 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Tue Nov 15 04:51:36 2005] [error] mod_jk child workerEnv in error state 3
+script not found or unable to stat
+[Mon Nov 21 02:50:11 2005] [error] mod_jk child workerEnv in error state 7
+script not found or unable to stat
+[Mon Feb 20 04:59:54 2006] [error] mod_jk child init 1 -2
+[Sat Jan 28 22:26:06 2006] [notice] mod_jk2 Shutting down
+[Sat Dec 03 21:48:00 2005] [notice] jk2_init() Found child 26977 in scoreboard slot 9
+[Sun Nov 20 04:10:45 2005] [error] mod_jk child workerEnv in error state 3
+[Tue Nov 29 04:43:13 2005] [error] mod_jk child workerEnv in error state 7
+[Fri Nov 18 15:36:47 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Fri Jun 10 11:32:39 2005] [notice] jk2_init() Found child 2343 in scoreboard slot 7
+[Tue Nov 15 18:28:23 2005] [error] mod_jk child workerEnv in error state 4
+[Mon Jan 16 17:01:28 2006] [notice] mod_jk2 Shutting down
+[Tue Nov 29 01:01:55 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Nov 20 14:35:02 2005] [error] mod_jk child workerEnv in error state 4
+[Thu Jul 21 03:38:45 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 17 10:21:38 2005] [notice] jk2_init() Found child 5899 in scoreboard slot 1
+[Mon Nov 21 23:36:57 2005] [error] mod_jk child workerEnv in error state 4
+[Sat Dec 03 13:22:17 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Nov 20 23:16:04 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Nov 21 12:38:01 2005] [notice] jk2_init() Found child 28860 in scoreboard slot 3
+[Mon Nov 28 00:44:03 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Dec 06 05:35:58 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Wed Nov 23 19:25:47 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+script not found or unable to stat
+[Mon Nov 28 13:06:23 2005] [error] mod_jk child workerEnv in error state 5
+[Fri Nov 25 17:26:39 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Nov 20 11:38:54 2005] [notice] jk2_init() Found child 22157 in scoreboard slot 3
+script not found or unable to stat
+[Tue Nov 29 06:11:25 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Sun Dec 25 04:02:20 2005] [error] mod_jk child init 1 -2
+script not found or unable to stat
+[Mon Nov 21 12:06:11 2005] [notice] jk2_init() Found child 28753 in scoreboard slot 5
+[Sat Jun 18 07:35:46 2005] [error] jk2_init() Can't find child 32512 in scoreboard
+[Sun Nov 20 06:01:03 2005] [notice] jk2_init() Found child 21491 in scoreboard slot 0
+script not found or unable to stat
+[Sun Oct 09 04:12:43 2005] [error] mod_jk child init 1 0
+[Wed Nov 30 13:57:02 2005] [error] mod_jk child workerEnv in error state 5
+[Mon Dec 05 13:28:17 2005] [error] mod_jk child workerEnv in error state 8
+[Thu Jul 21 03:37:27 2005] [error] mod_jk child init 1 -2
+[Wed Nov 30 07:30:52 2005] [notice] jk2_init() Found child 7898 in scoreboard slot 9
+[Sat Dec 03 16:41:55 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Nov 21 02:54:04 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Aug 28 04:10:36 2005] [notice] Digest: generating secret for digest authentication ...
+script not found or unable to stat
+[Sat Dec 03 12:02:16 2005] [notice] jk2_init() Found child 25325 in scoreboard slot 7
+[Sun Jul 17 04:08:22 2005] [error] jk2_init() Can't find child 19898 in scoreboard
+[Tue Nov 22 05:38:40 2005] [error] mod_jk child init 1 -2
+[Fri Dec 02 22:32:56 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Nov 21 17:27:26 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Fri Jan 27 09:40:02 2006] [error] mod_jk child init 1 -2
+script not found or unable to stat
+script not found or unable to stat
+[Mon Dec 05 23:45:49 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Nov 19 11:19:15 2005] [error] mod_jk child workerEnv in error state 4
+[Sun Nov 20 05:46:01 2005] [notice] jk2_init() Found child 21444 in scoreboard slot 2
+[Sun Dec 04 20:05:58 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+script not found or unable to stat
+[Sat Jan 07 04:02:37 2006] [notice] Digest: done
+[Wed Aug 03 07:00:13 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jul 03 04:08:01 2005] [notice] mod_python: Creating 32 session mutexes based on 150 max processes and 0 max threads.
+script not found or unable to stat
+[Sun Dec 04 17:39:00 2005] [notice] jk2_init() Found child 1529 in scoreboard slot 9
+script not found or unable to stat
+[Wed Jul 27 14:42:39 2005] [notice] LDAP: SSL support unavailable
+[Mon Nov 21 00:52:07 2005] [error] mod_jk child init 1 0
+[Fri Dec 02 20:50:46 2005] [notice] jk2_init() Found child 21468 in scoreboard slot 8
+[Wed Jan 11 03:37:58 2006] [notice] jk2_init() Found child 10199 in scoreboard slot 10
+[Mon Nov 21 03:07:29 2005] [notice] jk2_init() Found child 26318 in scoreboard slot 6
+[Mon Nov 28 23:29:04 2005] [error] mod_jk child workerEnv in error state 5
+script not found or unable to stat
+[Mon Nov 21 12:00:53 2005] [error] mod_jk child workerEnv in error state 4
+[Sun Nov 20 22:32:21 2005] [notice] jk2_init() Found child 24873 in scoreboard slot 3
+[Sat Dec 03 02:21:07 2005] [error] mod_jk child workerEnv in error state 5
+[Sat Jun 11 03:03:08 2005] [error] jk2_init() Can't find child 4232 in scoreboard
+[Sun Aug 21 04:03:49 2005] [notice] mod_security/1.9dev2 configured
+[Sun Nov 20 17:13:54 2005] [error] mod_jk child workerEnv in error state 5
+[Sun Dec 04 05:12:10 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Jan 08 04:05:52 2006] [notice] mod_jk2 Shutting down
+[Wed Jan 25 07:33:49 2006] [error] jk2_init() Can't find child 3066 in scoreboard
+[Tue Nov 29 23:24:55 2005] [notice] jk2_init() Found child 5918 in scoreboard slot 6
+[Wed Sep 28 09:08:45 2005] [warn] child process 707 still did not exit, sending a SIGTERM
+script not found or unable to stat
+[Thu Dec 08 21:45:38 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 02 04:06:36 2005] [notice] mod_jk2 Shutting down
+[Sun Dec 04 06:57:23 2005] [error] mod_jk child workerEnv in error state 6
+script not found or unable to stat
+[Tue Nov 29 09:16:48 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Dec 03 09:38:07 2005] [error] mod_jk child workerEnv in error state 5
+script not found or unable to stat
+[Sun Nov 20 01:37:19 2005] [notice] jk2_init() Found child 15906 in scoreboard slot 2
+[Sat Dec 03 21:49:29 2005] [notice] jk2_init() Found child 26986 in scoreboard slot 6
+script not found or unable to stat
+[Sun Nov 13 04:15:25 2005] [error] config.update(): Can't create worker.jni:onStartup
+[Tue Nov 22 20:07:21 2005] [notice] jk2_init() Found child 2448 in scoreboard slot 5
+[Wed Feb 08 21:05:05 2006] [error] jk2_init() Can't find child 4368 in scoreboard
+[Mon Nov 21 17:40:54 2005] [notice] jk2_init() Found child 29670 in scoreboard slot 4
+[Thu Dec 08 22:09:52 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Dec 03 17:48:02 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 02:51:05 2005] [error] mod_jk child workerEnv in error state 5
+script not found or unable to stat
+[Mon Dec 05 10:10:33 2005] [error] mod_jk child workerEnv in error state 6
+[Sat Dec 03 11:22:41 2005] [notice] jk2_init() Found child 25185 in scoreboard slot 6
+[Mon Oct 10 09:56:32 2005] [notice] jk2_init() Found child 17831 in scoreboard slot 11
+[Mon Dec 05 18:45:53 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+script not found or unable to stat
+[Sat Nov 19 00:17:04 2005] [error] mod_jk child workerEnv in error state 3
+script not found or unable to stat
+[Sun Dec 04 16:32:56 2005] [error] mod_jk child workerEnv in error state 6
+script not found or unable to stat
+[Sun Nov 20 05:43:38 2005] [notice] jk2_init() Found child 21419 in scoreboard slot 1
+[Thu Jul 21 03:37:17 2005] [error] jk2_init() Can't find child 3708 in scoreboard
+[Sun Dec 04 04:19:24 2005] [notice] jk2_init() Found child 28599 in scoreboard slot 8
+[Tue Nov 29 00:45:54 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Dec 06 07:50:49 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Sat Dec 03 11:32:34 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 10:36:10 2005] [notice] jk2_init() Found child 5425 in scoreboard slot 9
+[Wed Jan 25 07:33:50 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Dec 03 16:16:33 2005] [notice] jk2_init() Found child 26090 in scoreboard slot 6
+[Sat Dec 03 21:54:45 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Nov 19 16:27:21 2005] [notice] jk2_init() Found child 14576 in scoreboard slot 3
+[Thu Jul 21 03:37:18 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Nov 21 05:47:29 2005] [notice] jk2_init() Found child 27650 in scoreboard slot 2
+[Tue Dec 06 09:50:59 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Nov 21 03:18:28 2005] [error] mod_jk child init 1 0
+[Sun Dec 04 17:37:47 2005] [notice] jk2_init() Found child 1520 in scoreboard slot 8
+[Sun Dec 04 04:27:35 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 16:10:44 2005] [error] mod_jk child workerEnv in error state 6
+[Sat Dec 03 21:37:21 2005] [notice] jk2_init() Found child 26925 in scoreboard slot 6
+[Thu Jul 21 03:37:28 2005] [error] mod_jk child init 1 -2
+[Fri Jul 15 06:16:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Mon Nov 21 01:13:40 2005] [notice] jk2_init() Found child 25726 in scoreboard slot 0
+script not found or unable to stat
+[Sat Dec 03 10:16:01 2005] [notice] jk2_init() Found child 24987 in scoreboard slot 9
+[Thu Nov 17 10:10:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Wed Nov 30 11:43:26 2005] [notice] jk2_init() Found child 8515 in scoreboard slot 7
+[Thu Jul 21 03:37:15 2005] [error] jk2_init() Can't find child 3691 in scoreboard
+[Mon Dec 05 10:33:44 2005] [error] mod_jk child workerEnv in error state 6
+script not found or unable to stat
+[Sun Nov 20 05:45:42 2005] [notice] jk2_init() Found child 21442 in scoreboard slot 4
+[Mon Dec 05 13:43:27 2005] [notice] jk2_init() Found child 5990 in scoreboard slot 6
+[Sun Sep 25 04:11:21 2005] [notice] mod_jk2 Shutting down
+[Sat Dec 03 13:02:19 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Wed Nov 30 11:57:43 2005] [notice] jk2_init() Found child 8590 in scoreboard slot 6
+[Sun Dec 04 17:34:57 2005] [error] mod_jk child workerEnv in error state 6
+[Fri Nov 25 06:29:26 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Jun 11 03:03:10 2005] [notice] jk2_init() Found child 4265 in scoreboard slot 63
+[Mon Feb 20 05:00:01 2006] [error] mod_jk child init 1 -2
+[Sat Dec 03 17:15:44 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Sun Oct 30 04:04:36 2005] [notice] Graceful restart requested, doing restart
+[Tue Jan 24 20:54:31 2006] [notice] mod_jk2 Shutting down
+[Wed Nov 30 10:46:18 2005] [notice] jk2_init() Found child 8338 in scoreboard slot 7
+script not found or unable to stat
+[Sat Jan 28 22:26:08 2006] [notice] mod_jk2 Shutting down
+script not found or unable to stat
+[Mon Nov 21 03:14:11 2005] [error] mod_jk child workerEnv in error state 4
+[Fri Jul 15 06:16:02 2005] [error] jk2_init() Can't find child 13853 in scoreboard
+[Fri Dec 02 02:40:50 2005] [error] mod_jk child workerEnv in error state 5
+script not found or unable to stat
+[Sun Jul 10 04:04:45 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Nov 20 16:28:40 2005] [notice] jk2_init() Found child 22906 in scoreboard slot 1
+[Mon Nov 28 00:25:48 2005] [notice] jk2_init() Found child 27850 in scoreboard slot 6
+[Sat Feb 25 03:52:25 2006] [notice] mod_jk2 Shutting down
+script not found or unable to stat
+[Mon Nov 28 16:20:44 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Nov 27 20:21:38 2005] [error] mod_jk child workerEnv in error state 5
+[Mon Dec 05 19:22:38 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Dec 06 03:35:57 2005] [notice] jk2_init() Found child 7912 in scoreboard slot 8
+[Tue Nov 15 04:57:59 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Nov 21 14:51:59 2005] [notice] jk2_init() Found child 29194 in scoreboard slot 2
+script not found or unable to stat
+[Thu Feb 16 00:54:29 2006] [error] mod_jk child init 1 -2
+[Sun Aug 07 04:04:00 2005] [error] mod_jk child init 1 -2
+[Thu Jul 21 03:37:28 2005] [notice] jk2_init() Found child 3759 in scoreboard slot 98
+script not found or unable to stat
+[Wed Nov 23 05:55:33 2005] [error] mod_jk child workerEnv in error state 4
+[Tue Nov 29 01:07:51 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:47:44 2005] [notice] jk2_init() Found child 30769 in scoreboard slot 7
+[Tue Nov 29 04:30:01 2005] [notice] jk2_init() Found child 3270 in scoreboard slot 9
+[Mon Nov 28 11:43:02 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Nov 28 11:36:52 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Nov 19 22:28:01 2005] [error] mod_jk child workerEnv in error state 4
+[Sun Aug 14 04:03:52 2005] [error] jk2_init() Can't find child 6145 in scoreboard
+[Sat Dec 03 13:35:46 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Nov 21 02:38:35 2005] [notice] jk2_init() Found child 26119 in scoreboard slot 2
+[Tue Dec 06 05:40:47 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Nov 06 04:06:14 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Nov 20 12:48:21 2005] [notice] jk2_init() Found child 22334 in scoreboard slot 3
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 20 12:31:10 2005] [error] mod_jk child workerEnv in error state 4
