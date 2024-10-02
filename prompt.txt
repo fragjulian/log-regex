@@ -1,0 +1,39 @@
+Here is a DPL (Dynatrace Pattern Language) pattern which contains only basic matchers such as literals and character classes:
+
+`<dplLine>`
+
+We split it into the following fragments, one fragment per line
+
+[ 
+    <dplFragments>
+]
+
+Your task is to suggest optimizations for the tokens using DPLs high-level matchers.
+You can use the following matchers:
+- IPADDR for IPv4 and IPv6 addresses
+- INT
+- LONG
+- DOUBLE
+- TIMESTAMP
+- LD for arbitrary text
+
+Do not use LD as last matcher in the pattern. Do not suggest optimizations for literal matchers.
+
+To decide, if an optimization can be made, consider the following aspects:
+1. the matcher label, if available (look out for keywords such as IP, ID, etc.)
+2. the languages accepted by the individual matchers
+
+If an entire group is replaced by a matcher, the groups parentheses can be omitted. Only replace matchers for which you are certain. It is okay to keep the original matcher if you are not certain. The overall goal is to get an optimized, but still syntactically and semantically correct DPL pattern.
+
+Make sure to attach the export name to the correct matcher. The export name is the label that comes optionally after a matcher.
+
+Respond as JSON, do not respond anything else! The format should be like this:
+
+[
+    {
+        original_fragment: string;
+        optimized_fragment: string;
+    }
+]
+
+If there are no optimizations, respond [].
