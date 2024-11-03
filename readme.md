@@ -1,6 +1,6 @@
-Real-world logs and corresponding RegEx patterns.
+Real-world logs and corresponding regular expressions (RegEx).
 
-Serves as an evaluation dataset for a Master's thesis.
+Serves as an evaluation dataset for the paper "Lost in Translation? Converting RegEx for Log Parsing into Dynatrace Pattern Language".
 
 ---
 
